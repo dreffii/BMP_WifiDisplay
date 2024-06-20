@@ -12,6 +12,8 @@ This project is about sending bmp pixel data over wifi to 240x240 display.
 - image_conv.py is tool for converting image to 240x240 24bit.
 - SendPixel.py is for sending pixel data to display
 
+- This way can send image to display faster than sending .bmp via serial :D 
+
 
 NOTE: Both esp32 and host must be on the same network.
       Make sure to install all necessary library installed
